@@ -1,1 +1,6 @@
 1. commented out mk/check_modules.sh completely.
+2. Followed instructions as listed on ->
+http://ardupilot.org/dev/docs/setting-up-sitl-on-linux.html
+3. Everything up and running
+
+*NOTE -> For running SITL with map, the command is "sim_vehicle.sh -j4 --map"
